@@ -12,8 +12,8 @@ VALUES (001, "CEO", 250000, 001),
        (005, "IT Technician", 100000, 004);
 
 INSERT INTO employees (employee_id, first_name, last_name, role_id, manager_id)
-VALUES (010, "Tony", "Stark", 001, null),
-       (011, "Steve", "Rogers", 002, 010),
-       (012, "Pepper", "Potts", 003, 010),
-       (013, "Peter", "Parker", 004, 011),
-       (014, "Bruce", "Banner", 005, 011);
+VALUES (010, "Tim", "Timmerson", 001, null),
+       (011, "Steve", "Stevesons", 002, 010),
+       (012, "Humphry", "Potts", 003, 010),
+       (013, "Peter", "Jenkins", 004, 011),
+       (014, "Bruce", "Bumble", 005, 011);
