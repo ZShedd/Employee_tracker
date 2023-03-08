@@ -24,7 +24,6 @@ class DB {
     });
   }
 
-  // need to figure out how to continue with the prompts
   addEmployee() {
     inquirer
       .prompt([
